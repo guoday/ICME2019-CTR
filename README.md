@@ -1,9 +1,10 @@
+## Introduction
+
+Implement of the paper ["Multi-modal Representation Learning for Short Video Understanding and Recommendation"](https://ieeexplore.ieee.org/document/8795067)
+
 ## Short Video Understanding Challenge
 
-Introduction of ICME2019 Grand Challenge refers to https://biendata.com/competition/icmechallenge2019/
-
-More detail coming soon!
-
+Introduction of ICME2019 Grand Challenge refers to the [website](https://biendata.com/competition/icmechallenge2019/)
 
 
 ### 1. Requirement
